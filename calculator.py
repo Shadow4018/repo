@@ -9,7 +9,7 @@ class Calculator:
         """Віднімання"""
 
     def multiply(self, a, b):
-        """Множення"""
+        return a * b
 
     def divide(self, a, b):
         """Ділення з перевіркою на 0"""
