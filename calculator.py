@@ -13,9 +13,11 @@ class Calculator:
     def multiply(self, a, b):
         return a * b
 
-    def divide(self, a, b):
+    def divide(self, a, b):  
         """Ділення з перевіркою на 0"""
-        
+        """Ділення з перевіркою на 0"""
+        """Ділення з перевіркою на 0"""
+        """Ділення з перевіркою на 0"""
 
     def power(self, a, b):
         """Піднесення до степеня"""
