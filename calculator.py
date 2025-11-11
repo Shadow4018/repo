@@ -21,15 +21,21 @@ class Calculator:
         """Hello World"""
         """Hello World!"""
         """Hellooooo World!!!"""
+        if b == 0:
+            raise ValueError("Ділення на нуль неможливе!")
+        return a / b
         
 
     def power(self, a, b):
         """Піднесення до степеня"""
+        return a ** b
         
 
     def modulo(self, a, b):
         """Остача від ділення"""
-        
+        if b == 0:
+            raise ValueError("Ділення на нуль неможливе!")
+        return a % b
 
 
 # Приклад використання (можна помістити у файл main.py)
