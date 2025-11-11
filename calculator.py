@@ -15,9 +15,9 @@ class Calculator:
 
     def divide(self, a, b):
         """Ділення з перевіркою на 0"""
-        """Ділення з перевіркою на 0"""
-        """Ділення з перевіркою на 0"""
-        """Ділення з перевіркою на 0"""
+        """Hello World"""
+        """Hello World!"""
+        """Hellooooo World!!!"""
         
 
     def power(self, a, b):
