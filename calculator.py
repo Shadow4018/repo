@@ -11,7 +11,7 @@ class Calculator:
         return a - b
 
     def multiply(self, a, b):
-        """Множення"""
+        return a * b
 
     def divide(self, a, b):
         """Ділення з перевіркою на 0"""
